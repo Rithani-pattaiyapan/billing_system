@@ -1,0 +1,1 @@
+created a view file to give the overall idea of the project.
